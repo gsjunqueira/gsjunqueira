@@ -1,4 +1,4 @@
-<h2 align="left">Olá, meu nome é Giovani sou formado em Engenheira Mecânico com especialização em Engenharia de Manutenção e MBA em Administração do Setor Eleétrico e Cursando Especialização em Inteligência de Dados Aplicada ao Setor Elétrico.</h2>
+<h2 align="left">Olá, meu nome é Giovani sou formado em Engenheira Mecânico com especialização em Engenharia de Manutenção e MBA em Administração do Setor Elétrico e Cursando Especialização em Inteligência de Dados Aplicada ao Setor Elétrico.</h2>
 
 ###
 
